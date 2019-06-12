@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Reptile</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+
+
+    <string name="slide_1_title">KOMUNITAS REPTILE</string>
+    <string name="slide_1_desc">Temukan Keluarga Reptile Mu</string>
+
+    <string name="slide_2_title">SEPUTAR REPTIL</string>
+    <string name="slide_2_desc"> Temukan Fakta Unik Seputar Reptile Favorite Mu</string>
+
+    <string name="slide_3_title">FORUM JUAL-BELI</string>
+    <string name="slide_3_desc">Temukan Reptile Impian Mu</string>
+
+
+    <string name="artikel1">
+         Python Reticulatus\n\n
+
+\t\t\tPython reticulatus atau  sering disebut ular sanca kembang, berhabitat di hutan hujan tropis di berbagai Negara seperti Asia Tenggara, Filipina dan Indonesia. Sanca kembang memiliki penyebaran yang terluas dari semua spesies Python. Jenis ular ini sangat digemari oleh para pecinta ular baik yang sudah pengalaman ataupun pemula.Alasan pemilihan ular jenis ini antara lain :
+\n\t\t\twarnanya yang exotic, tampilannya yang garang, perawatan yang mudah, relative jinak, dan mempunyai daya hidup yang lebih lama dibandingkan jenis ular lainnya.
+\n\n\t\tSanca Kembang berbentuk langsing untuk ukurannya dan berkembang dengan lingkar tubuh yang berotot yang cendrung tetap membulat dari pada memipih seperti ular pembelit lainnya. Sanca raksasa ini sangat bermacam-macam, dengan motif jaring atau rantai dengan warna dasar perak (abu-abu) atau perak coklat. Motif punggungnya adalah ciri khas warna dasar dari ular ini dan bergaris tepi warna hitam dan kuning, oranye atau coklat. Bintik-bintik di samping badannya berwarna terang. Seluruh tubuhnya memantulkan warna “hologram” (seperti pelangi), Ukuran Ular yang baru menetas kurang lebih mempunyai panjang 60cm. Ukuran dewasa (sudah dapat kawin) Betina sekitar 3.3m lebih, jantan 2.3m. Ukuran yang pernah tercatat sekitar 33 kaki (11meter) dan berat 300 pon (150 kg) lebih, Umur Hidup Sanca Kembang dapat hidup 30 tahun atau lebih di dalam kurungan .
+Sanca Kembang yang baru ditangkap dari alam liar cenderung (wild-caught – RED) menjadi binatang yang sangat gugup (ketakutan) dan bertahan yang akan mengigit untuk berusaha lepas dari pegangan kita dan kabur. Tetapi hasil ternakan (captive-breed – RED) biasanya tenang dan bahkan jinak, hewan yang pintar yang senang berinteraksi bila si pemelihara membuatnya begitu. Jenis ini adalah pilihan yang bagus yang bisa memberikan perbedaan yang sangat besar dalam pengalaman memelihara ular.
+Status di alam liar Penyebarannya sangat luas tetapi jumlahnya yang berkurang, karena eksploitasi untuk mendapatkan kulit dan dagingnya. Pada tahun 2002 eksport kulit ular ini sebesar 437.500 Kenyataan buruk ini menunjukan secara legal lebih mudah memindahkan ular mati daripada yang hidup.
+\t\t•\tAda beberapa hal yang harus diperhatikan sebelum memelihara ular python ini\n\n
+    </string>
+
+
+</resources>

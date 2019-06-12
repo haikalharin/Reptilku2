@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "415334620539",
+    "firebase_url": "https://reptilku-68de6.firebaseio.com",
+    "project_id": "reptilku-68de6",
+    "storage_bucket": "reptilku-68de6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415334620539:android:8144678db4e6cd87",
+        "android_client_info": {
+          "package_name": "com.example.reptilku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415334620539-secd5bq6u0eq2n91a8tn44c8fn2pfl7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reptilku",
+            "certificate_hash": "5f5fd267eb6ae4d6912f067415644797425a6c4a"
+          }
+        },
+        {
+          "client_id": "415334620539-gfb664qa2aiiffe5292nudc8orsp74hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyCf-g8i2nIBBKaofdxYdJDqVRCNrAhlM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415334620539-gfb664qa2aiiffe5292nudc8orsp74hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
